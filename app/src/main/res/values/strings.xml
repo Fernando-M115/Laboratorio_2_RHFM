@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio 2</string>
+    <string name="Titulo">Peces</string>
+    <string name="Pescado_1">Pez Payaso</string>
+    <string name="Pescado_2">Pez Globo</string>
+    <string name="Descripcion_1">Los <b>peces payaso</b> se caracterizan por sus contrastados e intensos colores, rojo, rosa, negro, amarillo, naranja o blanco. Proceden de los arrecifes de coral del Indo-Pacífico, y viven conjuntamente con las anémonas, teóricamente especies depredadoras, de las que obtienen una protección frente a posibles atacantes. \n\n\nA cambio, los peces payaso ofrecen la posibilidad de acercar alimento a la boca de la anémona, y, con su continuo movimiento, limpian el disco oral y los tentáculos de la anémona, evitándole infecciones bacterianas. Al tiempo, los ejemplares adultos defienden a sus anémonas hospedantes de peces depredadores especializados, como los peces mariposa de la familia Chaetodontidae
+        \n\n\nFáciles de obtener, son peces de mantenimiento sencillo, por ello, todas sus variedades constituyen una buena opción para acuarios. Se trata de especies carnívoras, que necesitan un aporte vegetal en su dieta. En su medio natural, los peces payaso persiguen a sus pequeñas presas.</string>
+    <string name="Descripcion_2">Los biólogos creen que el <b>pez globo</b> desarrolló su famosa habilidad para inflarse debido a que su estilo para nadar es lento y torpe. Eso los hace vulnerables frente a los depredadores. \n\n\nEn lugar de escapar, el pez globo utilizar su elástico estómago muy elástica y su capacidad de ingerir rápidamente grandes cantidades de agua (e incluso de aire si es necesario) para que se convierta en una bola prácticamente increíble que dobla varias veces su tamaño normal. \n\n\nAlgunas especies también tienen espinas en la piel para evitar ser comidas.\n\n\nUn depredador que logra atrapar a un pez globo antes de que se infle, no se sentirá afortunado por mucho tiempo. Casi todos los peces globo contienen tetrodo toxina, una sustancia que hace que el pez globo tenga un sabor muy desagradable, a menudo letal para los peces. </string>
+    <string name="BotonSiguiente">SIGUIENTE</string>
+    <string name="BotonAtras">ATRAS</string>
+</resources>
